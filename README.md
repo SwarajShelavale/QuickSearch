@@ -12,7 +12,7 @@ QuickSearch is a simple search application built using RedirectView in Spring MV
 
 ## Screenshots
 
-![QuickSearch Application Screenshot](quicksearch_screenshot.png)
+![QuickSearch Application Screenshot](images/QuickSearch.png)
 
 ## Usage
 
